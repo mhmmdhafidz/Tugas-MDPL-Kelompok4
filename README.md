@@ -22,8 +22,15 @@ PEMBAGIAN TUGAS SDD (Software Design Documentation)
 4. 5200411439 : Manfaat Product, Karakteristik User, Batasan-batasan,Sofware Design, Kebutuhan Fungsional, Kebutuhan Interface
 
 
+PEMBAGIAN TUGAS SQL
+1. 5200411405 : SQL DDL
+2. 5200411407 : Laporan, SQL DCL
+3. 5200411435 : SQL TCL
+4. 5200411439 : SQL DML
 
 
-
-
-
+PEMBAGIAN ARSITEKTUR
+1. 5200411405 : UI DESIGN FiGMA, design analisis
+2. 5200411407 : PAPER DRAW UI,cover,analisis kebutuhan input, Laporan, Design input output, proses, arsitektur, alur sistem,revisi
+3. 5200411435 : Laporan UI Design Paper and Figma
+4. 5200411439 : analisis proses, analisis output, Referensi
