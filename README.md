@@ -2,7 +2,7 @@
 ANGGOTA KELOMPOK
 -- 5200411405 MUHAMMAD HAFIDZ
 
--- 5200411407 RISTU AJI WIJAYANTO
+-- 5200411407 RISTU AJI WIJAYANTO ( Coordinator )
 
 -- 5200411435 IKHSAN AKBAR
 
@@ -11,4 +11,14 @@ ANGGOTA KELOMPOK
 
 
 PEMBAGIAN TUGAS SRS
-1. 5200411407
+1. 5200411405   : Software Interface, Hardware, Interface, Manfaat Produk
+2. 5200411407   : Cover,Daftar Isi, Pendahuluan ,Tujuan, Latar Belakang, Manejememen File Rekap
+3. 520011435    : Karakteristic , Batasan - Batasan , Asumsi dan Ketergantungan
+4. 5200411439   : Referensi, Gambaran Umum Document, Akronim,Definisi,Singkatan, Perspektif Product
+
+
+
+
+
+
+
