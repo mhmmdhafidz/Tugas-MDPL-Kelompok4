@@ -1,16 +1,14 @@
 # Tugas-MDPL-Kelompok4
 ANGGOTA KELOMPOK
--- 5200411405 MUHAMMAD HAFIDZ
-
--- 5200411407 RISTU AJI WIJAYANTO ( Coordinator )
-
--- 5200411435 IKHSAN AKBAR
-
--- 5200411439 TEGAR RANGGA NUR RIDAWAN
+-5200411405 MUHAMMAD HAFIDZ
+-5200411407 RISTU AJI WIJAYANTO ( Coordinator )
+-5200411435 IKHSAN AKBAR
+-5200411439 TEGAR RANGGA NUR RIDAWAN
 
 
 
 PEMBAGIAN TUGAS SRS
+
 1. 5200411405   : Software Interface, Hardware, Interface, Manfaat Produk
 2. 5200411407   : Cover,Daftar Isi, Pendahuluan ,Tujuan, Latar Belakang, Manejememen File Rekap
 3. 520011435    : Karakteristic , Batasan - Batasan , Asumsi dan Ketergantungan
