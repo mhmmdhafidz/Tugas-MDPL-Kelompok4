@@ -7,12 +7,19 @@ ANGGOTA KELOMPOK
 
 
 
-PEMBAGIAN TUGAS SRS
-
+PEMBAGIAN TUGAS SRS (Software Requirement Spesification)
 1. 5200411405   : Software Interface, Hardware, Interface, Manfaat Produk
 2. 5200411407   : Cover,Daftar Isi, Pendahuluan ,Tujuan, Latar Belakang, Manejememen File Rekap
 3. 520011435    : Karakteristic , Batasan - Batasan , Asumsi dan Ketergantungan
 4. 5200411439   : Referensi, Gambaran Umum Document, Akronim,Definisi,Singkatan, Perspektif Product
+
+
+
+PEMBAGIAN TUGAS SDD (Software Design Documentation)
+1. 5200411405 : 
+2. 5200411407 : 
+3. 5200411435 : 
+4. 5200411439 : 
 
 
 
