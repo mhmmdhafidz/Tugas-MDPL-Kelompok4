@@ -16,7 +16,7 @@ PEMBAGIAN TUGAS SRS (Software Requirement Spesification)
 
 
 PEMBAGIAN TUGAS SDD (Software Design Documentation)
-1. 5200411405 : Lingkungan Operasi, Batas Perancangan, , Model Data, Use Case Diagram, Activity Diagram
+1. 5200411405 : Lingkungan Operasi, Batas Perancangan, , Model Data, Use Case Diagram, Activity Diagram, Design UI Berbasis Website
 2. 5200411407 : Revisi, Cover, Daftar Isi, Pendahuluan, Tujuan, Ruang Lingkup, Gambaran Umum Doc, Perspektif Product
 3. 5200411435 : Sequence Diagram,Class Diagram, Object Diagram, Rancangan Arsitektur Sistem,Rancangan Interface Halaman 
 4. 5200411439 : Manfaat Product, Karakteristik User, Batasan-batasan,Sofware Design, Kebutuhan Fungsional, Kebutuhan Interface
