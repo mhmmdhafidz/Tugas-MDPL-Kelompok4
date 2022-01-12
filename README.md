@@ -29,8 +29,35 @@ PEMBAGIAN TUGAS SQL
 4. 5200411439 : SQL DML
 
 
-PEMBAGIAN ARSITEKTUR
+PEMBAGIAN PENGERJAAN ARSITEKTUR PROTOTYPE
 1. 5200411405 : UI DESIGN FiGMA, design analisis
 2. 5200411407 : PAPER DRAW UI,cover,analisis kebutuhan input, Laporan, Design input output, proses, arsitektur, alur sistem,revisi
 3. 5200411435 : Laporan UI Design Paper and Figma
 4. 5200411439 : analisis proses, analisis output, Referensi
+
+
+PEMBAGIAN PENGERJAAN RAD TICEKTING PESAWAT
+1. 5200411405 : UI DESIGN FiGMA, design analisis, Kebutuhan Input, Kebutuhan Informasi, Kebutuhan Interface
+2. 5200411407 : FRONT-END, Cover , daftar isi, latarbelakang, tujuan, batasan, Laporan rekab, ,Revisi, Pengujian dan Turnover
+3. 5200411435 :  Use Case, Pemodelan data dan Proses
+4. 5200411439 :  BACK-END , Pemodelan bisnis, jenis sistem,bahasa pemrograman,kebuthan hardware, Kebutuhan Software 
+
+
+PEMBAGIAN PENGERJAAN SCRUM
+1. 5200411405 : Sprint,Produck Backlog
+2. 5200411407 : Cover , daftar isi, Pendahuluan, Kesimpulan Hasil, Laporan rekab file, ,Revisi
+3. 5200411435 :  Devlivery Products
+4. 5200411439 :  Kesimpulan dan Hasil , User Stories, Revisi
+
+
+PEMBAGIAN PENGERJAAN AGILE Continuous Integration
+1. 5200411405 : Bab IV
+2. 5200411407 : Cover, Daftar Isi, Laporan , BAB 1 , BAB 3 , Revisi, Rekab File
+3. 5200411435 :  PPT
+4. 5200411439 :  BAB 2
+
+PEMBAGIAN PENGERJAAN AGILE DEVOPS: Jenkins Tools
+1. 5200411405 : Bab IV
+2. 5200411407 : Cover, Daftar Isi, Laporan , BAB 1 , BAB 3 , Revisi, Rekab File
+3. 5200411435 :  PPT
+4. 5200411439 :  BAB 2
